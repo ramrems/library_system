@@ -1,0 +1,256 @@
+uçan gemi	a.asselland	çocuk	0	can yayınları
+10 küçük zenci	agatha christie	polisiye	0	altın kitaplar
+neden evans'a sormadılar	agatha christie	polisiye	0	altın kitaplar
+elmayı yılan ısırdı	agatha christie	polisiye	0	altın kitaplar
+yankılı kayalar	ahmet yılmaz boyunağa	çocuk	0	bilgi yok
+kıskançlık	alain robbe- grillet	çocuk	0	bilgi yok
+siyah lale	alexsandre dumas	çocuk	0	bilgi yok
+sur kenti hikayeleri	ali ayçil	hikaye	0	bilgi yok
+küçük prens	antoıne de saınt-exupery	çocuk	0	bilgi yok
+susuz deniz	arthur c.clarke	bilim-kurgu	219	baskan yayınları
+zaman yolcusunun karısı	audrey niffenegger	bilim-kurgu	541	epsilon yayınevi
+bir ruh macerası	ayşe saşa	biyografi	160	timaş yayınları
+bizim büyük çaresizliğimiz	barış bıçakçı	edebi kurgu	167	iletişim
+zaman bisikleti	bilgin adalı	fantastik	0	bilgi yok
+yıldızlı atlas	burhan eren	çocuk	0	bilgi yok
+karanlık küre	c.h.thornhand	çocuk	0	bilgi yok
+narnia büyücünün yeğeni	c.s.lewis	çocuk	0	bilgi yok
+katır aslan	cahit zarifoğlu	çocuk	0	bilgi yok
+küçük şehzade	cahit zarifoğlu	çocuk	0	bilgi yok
+yürekdede ile padişah	cahit zarifoğlu	çocuk	0	bilgi yok
+sol ayağım	chrısty brown	biyografi	192	nemesis kitap
+sol ayağım2-her gün hüzün	chrısty brown	kurgu	273	nemesis kitap
+elenium 1.kitap elmas taht	david eddings	fantastik	383	altıkırkbeş yayın
+elenium 2.kitap yakut şövalye	david eddings	fantastik	349	altıkırkbeş yayın
+elenium 3.kitap safir gül	david eddings	fantastik	505	altıkırkbeş yayın
+tamuli 1.kitap ateşten kubbeler	david eddings	fantastik	472	altıkırkbeş yayın
+tamuli 2.kitap parıldayan insanlar	david eddings	fantastik	480	altıkırkbeş yayın
+tamuli 3.kitap saklı şehir	david eddings	fantastik	480	altıkırkbeş yayın
+tatar çölü	dino buzzati	edebi kurgu,roman	174	can yayınları
+suç ve ceza	dostoyevski	psikolojik kurgu	0	bordo siyah yayınları
+kumarbaz	dostoyevski	kurgu	188	iş bankası kültür
+her otostopçunun galaksi rehberi	douglas adams	bilim-kurgu	176	edesos yayınevi
+evrenin sonundaki restoran	douglas adams	bilim-kurgu	280	sarmal yayınevi
+yaşam evren ve her şey	douglas adams	bilim-kurgu	240	sarmal yayınevi
+demir yolu çocukları	edith nesbit	çocuk	0	bilgi yok
+küçük kemancı	eleanor h.porter	çocuk	0	bilgi yok
+küçük kelebekler	emine şenlikoğlu	çocuk	0	bilgi yok
+ruh dememi bağışlayın	emre ergin	kurgu	0	ketebe yayınları
+çocuk kalbi	eomando de hmkıs	çocuk	0	bilgi yok
+uçan sınıf	erich köstner	çocuk	0	can yayınları
+yaşlı adam ve deniz	ernest hemingway	edebi kurgu,alegori	0	bilgi yok
+küçük prenses	f.h.burnett	çocuk	0	bilgi yok
+ayşgül'e ne oldu	fatih erdoğan	çocuk	0	bilgi yok
+pal sokağı çocukları	ferenc molnar	çocuk	235	yapı kredi
+amak-ı hayal	filibeli ahmet hilmi	kurgu	0	bilgi yok
+macera kulübü 2 çifte tehlike	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 10 tılsım	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 11 gölge adam	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 12 sahte kimlik	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 3 yasak ada	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 4 lanetli gece	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 5 tehlikeli hileler	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 6 kayıp aranıyor	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 7 saklambaç	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 8 gömilü sır	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü 9 ölümcül oyunlar	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü casus avcıları	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü esrarlı ev	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü hazine avcıları	fiona kelly	çocuk	0	altın kitaplar
+macera kulübü sırların peşinde	fiona kelly	çocuk	0	altın kitaplar
+kuşatma 	firuzan	edebi kurgu	0	bilgi yok
+dune çöl gezegeni	frank herbert	bilim-kurgu	719	sarmal yayınevi
+dune mesihi	frank herbert	bilim-kurgu	298	sarmal yayınevi
+dune'un çocukları	frank herbert	bilim-kurgu	0	bilgi yok
+dune tanrı imparatoru	frank herbert	bilim-kurgu	680	sarmal yayınevi
+dune'un kafirleri	frank herbert	bilim-kurgu	787	sarmal yayınevi
+dune rahibeler meclisi	frank herbert	bilim-kurgu	717	mavi ada yayınları
+dava	franz kafka	kurgu,roman	0	bilgi yok
+elif	g.willow wilson	fantastik,roman	0	bilgi yok
+kahire	g.willow wilson	fantastik	0	bilgi yok
+ms.marvel normal değil	g. willow wilson	fantastik,çizgi roman	0	bilgi yok
+pıtırcık	g.sampe	çocuk	0	bilgi yok
+hayvan çiftliği	george orwell	alegori,hikaye	0	can yayınları
+1984	george orwell	bilim-kurgu	0	can yayınları
+ayşe'nin günleri	gülsüm cengiz	çocuk	0	bilgi yok
+sihirli ellerin öyküsü -tohumdan dokumaya	gülsüm cengiz	çocuk	0	bilgi yok
+akıllı pireler	gülten dayıoğlu	çocuk	0	bilgi yok
+ben büyüyünce	gülten dayıoğlu	çocuk	0	altın kitaplar
+dört kardeştiler	gülten dayıoğlu	çocuk	0	altın kitaplar
+dünya çocukların olsa	gülten dayıoğlu	çocuk	0	altın kitaplar
+fadiş	gülten dayıoğlu	çocuk	0	altın kitaplar
+ganga	gülten dayıoğlu	çocuk	0	altın kitaplar
+gökyüzündeki mor bulutlar	gülten dayıoğlu	çocuk	0	altın kitaplar
+ışın çağı çocukları	gülten dayıoğlu	çocuk	0	altın kitaplar
+midos kartalının gözleri	gülten dayıoğlu	çocuk	0	altın kitaplar
+ölümsüz ece	gülten dayıoğlu	çocuk	0	altın kitaplar
+parbat dağının esrarı	gülten dayıoğlu	çocuk	0	altın kitaplar
+sunanın serçeleri	gülten dayıoğlu	çocuk	0	altın kitaplar
+tunadan uçan kuş	gülten dayıoğlu	çocuk	0	altın kitaplar
+yurdumu özledim	gülten dayıoğlu	çocuk	104	altın kitaplar
+köşe başında suret bulan tek kişilik aşk	güray süngü	hikaye	0	dedalus kitap
+zaman makinesi	h.g. Wells	bilim-kurgu	128	indigo kitap
+korkunun bütün sesleri	harlan ellison ve diğerleri	bilim-kurgu,hikaye	136	metis yayınları
+sınırın güneyinde güneşin batısında	haruki murakami	kurgu,roman	188	bilgi yok
+kayıp hayaller kitabı	hasan ali toptaş	kurgu	282	iletişim
+gölgesizler	hasan ali toptaş	edebi kurgu	232	iletişim
+beyaz kanatlı kuş	hasan latif sarıyüce	çocuk	0	bilgi yok
+bir avuç ateş	hasan nail canat	çocuk	0	bilgi yok
+bir küçük osmancık vardı	hasan nail canat	çocuk	0	bilgi yok
+gül yarası	hasan nail canat	çocuk	0	bilgi yok
+kırımlı murat destanı	hasan nail canat	çocuk	0	bilgi yok
+yasemen	hasan nail canat	çocuk	0	bilgi yok
+kimsesiz çocuk	hector malot 	çocuk	0	bilgi yok
+dişi kurt ile çocuk	henri lovenbruck	fantastik	352	yapı kredi
+kurtların savaşı	henri lovenbruck	fantastik	371	yapı kredi
+dişi kurdun gecesi	henri lovenbruck	fantastik	354	yapı kredi
+siddhartha	hermann hesse 	felsefi kurgu,roman	152	can
+hayy	ibnu tufeyl	çocuk	0	bilgi yok
+suskunlar	ihsan oktay anar	kurgu,roman	269	iletişim
+robotlar	isaac asimov	bilim kurgu	326	milliyet yayınları
+unutuşu arayanlar	isabelle eberhardt	edebi kurgu,hikaye	80	alakarga sanat
+iki dirhem bir çekirdek	iskender pala	hikaye	212	bilgi yok
+harry potter ve ateş kadehi	j.k rowling	fantastik	0	bilgi yok
+harry potter ve azkaban tutsağı	j.k rowling	fantastik	0	bilgi yok
+harry potter ve felsefe taşı	j.k rowling	fantastik	0	yapı kredi yayınları
+harry potter ve melez prens	j.k rowling	fantastik	0	yapı kredi yayınları
+harry potter ve ölüm yadigarları	j.k rowling	fantastik	0	yapı kredi yayınları
+harry potter ve sırlar odası	j.k rowling	fantastik	0	yapı kredi yayınları
+harry potter ve zümrüdanka yoldaşlığı	j.k rowling	fantastik	0	yapı kredi yayınları
+hobbit	j.r.r.tolkien	fantastik	426	ithaki
+hurın'in çocukları	j.r.r.tolkien	fantastik	354	ithaki
+yüzüklerin efendisi-iki kule	j.r.r.tolkien	fantastik	416	metis yayınları
+yüzüklerin efendisi-kralın dönüşü	j.r.r.tolkien	fantastik	428	metis yayınları
+yüzüklerin efendisi-yüzük kardeşliği	j.r.r.tolkien	fantastik	486	metis yayınları
+şişedeki cin	j.w.grimm	çocuk	0	bilgi yok
+harry potter ve lanetli çocuk	jack thorne and john tiffany	çocuk	0	bilgi yok
+peter pan ile wendy	james matlehcw barrie	çocuk	0	bilgi yok
+uzaktan kumandalı kız	james tiptree j.r.	bilim kurgu	0	bilgi yok
+gurur ve önyargı	jane austen	duygusal kurgu	0	bilgi yok
+tersine akan nehir 1-tomek	jean claude mourlevat	çocuk	146	can
+heidi	johanna spyrı	çocuk	0	bilgi yok
+delifişek	jose' mauro de vasconcelos	biyografi	64	can
+güneşi uyandıralım	jose' mauro de vasconcelos	kurgu	273	can
+şeker portakalı	jose' mauro de vasconcelos	otobiyografik kurgu	200	can
+bütün isimler	jose saramago	kurgu,roman	280	gendaş yayınları
+mağara	jose saramago	kurgu,roman	0	iş bankası kültür
+ölüm bir varmış bir yokmuş	jose saramago	roman	0	bilgi yok
+bilinmeyen adanın öyküsü	jose saramago	hikaye	59	kırmızı kedi yayınları
+körlük	jose saramago	psikolojik kurgu,alegori,roman	0	can yayınları
+atlılar	joseph kessel	kurgu	501	can yayınları
+iki yıl okul tatili	jules verne	çocuk	0	bilgi yok
+uçutma mevsimi	kaan murat yanık	hikaye	160	kapı yayınları
+durulmayan bir kafa	kay redfield jamison	biyografi	232	oğlak yayıncılık
+beni asla bırakma	kazuo ishiguro	bilim kurgu,roman	272	yapı kredi yayınları
+dilenci baba	kemalettin tuğcu	çocuk	0	bilgi yok
+sokak köpeği	kemalettin tuğcu	çocuk	0	bilgi yok
+okuduğum en güzel kitapsın annem	kerem toprak	çocuk	0	bilgi yok
+uçurtma avcısı	khaled hosseini	dram,roman	0	everest yayınları
+otomatik piyano	kurt vonnegut j.r.	bilim kurgu,roman	320	metis yayınları
+oz büyücüsü	l.frank baum	çocuk	0	bilgi yok
+bu gece özgürlük	lapierre and collins	dünya tarihi,siyaset	608	bilgi yok
+küçük kadınlar	louisa may alcott	çocuk	0	bilgi yok
+arthur iki dünyanın savaşı	luc besson	çocuk	0	can yayınları
+arthur ile minimoylar	luc besson	çocuk	0	can yayınları
+arthur maltazarın intikamı	luc besson	çocuk	0	can yayınları
+arthur ve yasak kent	luc besson	çocuk	0	can yayınları
+ağır tüy	m.yücel öztürk	hikaye	94	eşik yayınları
+alice ölüler diyarında	maniac dare	çocuk	0	bilgi yok
+serçe	mary doria russel	bilim kurgu,roman	411	metis yayınları
+hırsız	megan whalen turner	çocuk	0	bilgi yok
+gururlu peri	mehmet seyda	çocuk	0	bilgi yok
+cim düğme ve lokomotifçi lukas	michael end	çocuk	312	kabalcı yayınevi
+momo	michael end	çocuk	303	kabalcı yayınevi
+cim düğme ve vahşi on üçler	michael ende	çocuk	284	pegasus yayınları
+delireceğim vakit bulamıyorum	mine sota	çocuk	0	bilgi yok
+hepimus insanus	mine sota	çocuk	0	bilgi yok
+siz adamı ölmekten güldürürsünüz	mine sota	çocuk	0	bilgi yok
+uzun gece masalları	muhammed-i mir kiyani	çocuk	0	bilgi yok
+ruhi mücerret	murat menteş	roman	320	april yayıncılık
+uzun hikaye	mustafa kutlu	duygusal kurgu	0	degah yayınları
+ölü ozanlar derneği	n.h.kleinbaum	kurgu	141	real yayınları
+yusuf ile züleyha	nazan bekiroğlu	doğu klasikleri	224	timaş yayınları
+reis bey	necip fazıl kısakürek	tiyatro oyun	152	büyükdoğu yayınları
+koralin ve gizli dünya	neil gaiman	çocuk	184	ithaki
+ölümüne sadakat	nick hornby	kurgu,roman	262	sel yayıncılık
+kaçış yok	norah mcclintock	genç,polisiye	227	can
+ölü dalgıcın sonbaharı	onur selamet	hikaye	112	dedalus kitap
+angel dayı	panait ıstrait	çocuk	0	bilgi yok
+koku	patrick süskind	korku kurgu,roman	264	can
+simyacı	paulo coelho	roman	0	bilgi yok
+veronica ölmek istiyor	paulo coelho	psikolojik kurgu,roman	198	can
+dokuzuncu hariciye koğuş	peyami safa	kurgu	112	ötüken yayınları
+karanlık cevher dizisi -altın pusula	philip pullman	fantastik,roman,çocuk	516	ithaki
+karanlık cevher dizisi -keskin bıçak	philip pullman	fantastik,roman,çocuk	424	ithaki
+karanlık cevher dizisi-kehribar dürbün	philip pullman	fantastik,roman,çocuk	670	ithaki
+ulysess moore unutulmuş eski haritalar dükkanı	pierdomenico baccalario	çocuk	0	bilgi yok
+ulysess moore zaman kapısı	pierdomenico baccalario	çocuk	0	bilgi yok
+ulysess moore aynalar evi	pierdomenico baccalario 	çocuk	0	bilgi yok
+gül yetiştiren adam	rasim özdenören	sosyal roman	0	iz yayıncılık
+fahrenheit 451	ray bradbury	bilim kurgu	238	ithaki
+mavi gül	recep garip	çocuk	0	bilgi yok
+çalıkuşu	reşat nuri güntekin	duygusal kurgu	544	inkılap kitabevi
+percy jackson ve olimposlular titanın laneti	rick riordan	fantastik,roman	306	doğan egmont
+olimpos kahramanları  athena'nın işareti	rick riordan	fantastik,roman	552	doğan egmont
+olimpos kahramanları  kayıp kahraman	rick riordan	fantastik,roman	542	doğan egmont
+olimpos kahramanları  neptün'ün oğlu	rick riordan	fantastik,roman	454	doğan egmont
+olimpos kahramanları hades'in evi	rick riordan	fantastik,roman	574	doğan egmont
+percy jackson ve olimposlular canavarlar denizi	rick riordan	fantastik,roman	0	doğan egmont
+percy jackson ve olimposlular labirent savaşı	rick riordan	fantastik,roman	365	doğan egmont
+percy jackson ve olimposlular son olimposlu	rick riordan	fantastik,roman	387	doğan egmont
+percy jackson ve olimposlular şimşek hırsızı	rıck rıordan	fantastik,roman	0	doğan egmont
+mavi tüy	richard bach	alegori, felsefi kurgu	0	epsilon yayınevi
+melez dosyaları	rick riordan	çocuk	0	doğan egmont
+melez günlükleri	rick riordan	çocuk	0	doğan egmont
+olimpos kahramanları olimposun kanı	rick riordan	çocuk	0	doğan egmont
+charlie'nin çikolata fabrikası	roald dahl	çocuk	208	can
+korkusuz kaptanlar	rudyard kıplıng	çocuk	0	bilgi yok
+nazarzede kliniği	sadık yemni	roman	206	erdem yayınları
+kar taciri	sam gayton	çocuk	0	bilgi yok
+firmin	sam savage	fantastik,roman	158	özgür yayınları
+bir vardı bir yoktu	samed behrengi	çocuk	0	bilgi yok
+vatanın kilidi çanakkale	sara gürbüz özeren	çocuk	0	bilgi yok
+akıl öyküleri	selim gündüzalp	çocuk	0	bilgi yok
+neşeli öyküler	selim gündüzalp	çocuk	0	bilgi yok
+ömer seyfettin'den en güzel hikayeler	selim gündüzalp	çocuk	0	bilgi yok
+şifa öyküleri	selim gündüzalp	çocuk	0	bilgi yok
+karaduygun	sema kaygusuz	hikaye	117	doğan kitap
+sandık lekesi	sema kaygusuz	kurgu	88	doğan kitap
+okulda	simone veenstra	çocuk	0	bilgi yok
+niurk	stefan wull	bilim kurgu	198	can
+geçmiş tapınağı	stefan wull	bilim kurgu,çocuk	202	can
+satranç	stefan zweig	kurgu,hikaye	71	iş bankası kültür
+olağanüstü bir gece	stefan zweig	kurgu	80	iş bankası kültür
+mecburiyet	stefan zweig	kurgu	70	bilgi yok
+bir yüreğin ölümü	stefan zweig	edebi kurgu,hikaye	71	dekalog 
+tepki	stephan king	korku kurgu,bilim kurgu,gerilim,roman	400	altın kitaplar
+hayvan mezarlığı	stephan king	korku kurgu,roman	375	altın kitaplar
+göz	stephan king	korku kurgu,roman	199	altın kitaplar
+devr-i daim makinesi	şenol yücedağ	roman	80	iz yayıncılık
+zamanın farkında	şule gürbüz	kurgu	199	iletişim
+la fontene masalları	tahsin yücel	çocuk	0	bilgi yok
+şu acayip bitkiler	tarık uslu	çocuk	0	bilgi yok
+şu acayip hayvanlar	tarık uslu	çocuk	0	bilgi yok
+muhteşem maurice ve değişmiş fareleri	terry pratchett	çocuk	314	tudem
+trendeki derviş	tevfik el-hakim	sürrealist,tiyatro oyun	93	mavi yayıncılık
+spiderwick günceleri 1 esrarengiz köşk	tony diterlızzı ve holly black	çocuk	0	doğan egmont
+spiderwick günceleri 2 büyülü taş	tony diterlızzı ve holly black	çocuk	0	doğan egmont
+spiderwick günceleri 3 linda'nın sırrı	tony diterlızzı ve holly black	çocuk	0	doğan egmont
+spiderwick günceleri 4 gecenin karanlığında	tony diterlızzı ve holly black	çocuk	0	doğan egmont
+spiderwick günceleri 5 yutanhoyrat'ın gazabı	tony diterlızzı ve holly black	çocuk	0	doğan egmont
+spiderwick günceleri sonrası 1 nıxıe'nın şarkısı	tony diterlızzı ve holly black	çocuk	0	doğan egmont
+spiderwick günceleri sonrası 2 devleşen sorunlar	tony diterlızzı ve holly black	çocuk	0	doğan egmont
+spiderwick günceleri sonrası 3 ejderha kral	tony diterlızzı ve holly black	çocuk	0	doğan egmont
+yerdeniz büyücüsü	ursula k.le guin	fantastik,roman	192	metis
+atuan mezarları	ursula k.le guin	fantastik,roman	151	metis
+en uzak sahil	ursula k.le guin	fantastik,roman	207	metis
+tehanu	ursula k.le guin	fantastik,roman	215	metis
+yerdeniz öyküleri	ursula k.le guin	fantastik,roman	272	metis
+öteki rüzgar	ursula k.le guin	fantastik,roman	226	metis
+karanlığın sol eli	ursula k.le guin	bilim kurgu	254	ayrıntı
+biz	yevgeni zamyatin	bilim kurgu,roman	246	versus
+aylak adam	yusuf atılgan	kurgu,roman	160	yapı kredi
+ballı çörek kafeteryası	zeynep cemali	çocuk	0	bilgi yok
+çılgın babam	zeynep cemali	çocuk	0	bilgi yok
+güzelcede bir kaçak memo	zeynep cemali	çocuk	0	bilgi yok
+patenli kız	zeynep cemali	çocuk	0	bilgi yok
